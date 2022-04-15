@@ -3,4 +3,5 @@
 # TODO
 
 Optimize values for win the game
+
 Detect player resolution
