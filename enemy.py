@@ -5,7 +5,7 @@ import pyautogui
 #Dino Chrome Game Bot 
 
 # Region of detections
-# Coordenates for resolution 1600x900
+# Coordenates for resolution 1366x768
 X = 450.5
 X2 = 565.2
 # Detects enemy by diff in pixel color in region of detections
