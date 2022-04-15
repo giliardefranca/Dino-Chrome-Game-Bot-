@@ -1,4 +1,6 @@
 # Dino Chrome Game Bot 
+
+ A bot to win Dino Chrome Game (chrome://dino)
  
 # TODO
 
