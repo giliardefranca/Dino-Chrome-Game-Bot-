@@ -6,8 +6,8 @@ import pyautogui
 
 # Region of detections
 # Coordenates for resolution 1366x768
-X = 450.5
-X2 = 565.2
+X = 455.5
+X2 = 555.2
 # Detects enemy by diff in pixel color in region of detections
 def detect_enemy(screem):
     for x in range(int(X), int(X2)):
@@ -19,8 +19,8 @@ def jump():
     global X
     global X2
     pyautogui.press('Up')
-    X += 0.5
-    X2 += 0.4 ## Increment in detection region for increase speed of game
+    X += 0.2
+    X2 += 0.3 ## Increment in detection region for increase speed of game
 
 
 
